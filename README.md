@@ -1,2 +1,2 @@
 # Number converter
-This program converts given number in Russian words or to Roman numerals.
+This program converts a given number into text in Russian or into an entry in Roman numerals.
